@@ -4,8 +4,8 @@
 				************************
 
 . situs bagus belajar java
-	1. petani code  
-	2. w3school  
+	# petani code  
+	# w3school  
 
 . apa itu java
 	 - di baut taun 1995   
