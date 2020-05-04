@@ -3,24 +3,28 @@
 				Dokumentasi belajar java
 				************************
 
-. apa itu java
-	 - di baut taun 1995
-	 - di gunakan untuk 
-	 	- membuat apk mobile
-	 	- membuat apk desktop
-	 	- membuat apk web
-	 	- server web dan server aplikasi
-	 	- game
-	 	- koneksi basis data
-	 	- dan masih banyak lagi
+. situs bagus belajar java
+	1. petani code  
+	2. w3school  
 
-. mengapa menggunakan java
-	- berfungsi pada semua platform 
-	- mudah di pelajari
-	- open source
-	- aman cepat, kuat
-	- komunitas banyak
-	- mirip dengan c++ dan c#
+. apa itu java
+	 - di baut taun 1995   
+	 - di gunakan untuk   
+	 	- membuat apk mobile  
+	 	- membuat apk desktop   
+	 	- membuat apk web   
+	 	- server web dan server aplikasi  
+	 	- game   
+	 	- koneksi basis data   
+	 	- dan masih banyak lagi  
+
+. mengapa menggunakan java  
+	- berfungsi pada semua platform  
+	- mudah di pelajari   
+	- open source   
+	- aman cepat, kuat   
+	- komunitas banyak                               
+	- mirip dengan c++ dan c#    
 
 . instal dan setting java
 	- download jdk
